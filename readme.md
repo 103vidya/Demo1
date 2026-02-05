@@ -1,4 +1,4 @@
 #git course
 this is the git course
 
-#changes from bug branch
+#changes from new bug branch
